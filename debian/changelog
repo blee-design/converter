@@ -1,0 +1,17 @@
+converter (2082.11-01) unstable; urgency=medium
+
+  * Fixed bugs.
+
+ -- Udaya Raj Joshi <udayarajjoshi@aol.com>  Sat, 14 Feb 2026 12:23:07 +0545
+
+converter (2082.10-2) unstable; urgency=medium
+
+  * Added more feature.
+
+ -- Udaya Raj Joshi <udayarajjoshi@aol.com>  Mon, 19 Jan 2026 14:43:02 +0545
+
+converter (2082.10-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Udaya Raj Joshi <udayarajjoshi@aol.com>  Fri, 16 Jan 2026 18:43:13 +0545

@@ -1,0 +1,4503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <!-- ================================================= -->
+  <!-- Question No. 1 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 001</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Elinor Ostrom's Nobel-winning empirical work on economic governance directly challenged which influential economic theory?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Ostrom demonstrated that common-pool resources can be managed sustainably by communities, challenging the conventional "Tragedy of the Commons" model.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The Tragedy of the Commons]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[The Lucas Critique]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[The Theory of Comparative Advantage]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[The Coase Theorem]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 2 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 002</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When the elasticity of substitution is zero, then the iso-quant is]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Zero elasticity of substitution implies fixed proportions (Leontief production function), resulting in L-shaped isoquants.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Convex]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Concave]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[L shaped]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[U shaped]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 3 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 003</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Under constant cost conditions, the product transformation curve is]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Under constant opportunity costs, the production possibility frontier is a straight line.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Straight line]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Concave curve]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Convex curve]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Both b and c]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 4 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 004</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[In the long run, monopoly profits]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Monopoly profits can persist or even increase in the long run due to barriers to entry.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Go to zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Don't change]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[May increase]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[All of these]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 5 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 005</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Production function is a technical relationship between]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[A production function shows the maximum output obtainable from given inputs.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Input and cost]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Input and revenue]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Input and output]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Output and cost]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 6 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 006</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Who develop the theory of game?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[John von Neumann and Oskar Morgenstern developed game theory in their 1944 book.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Neumann and Morgenstern]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[William J. Baumol]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[J.R Hicks]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Samuelson P. A.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 7 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 007</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following does not add to aggregate demand?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Savings reduce current consumption and do not directly contribute to aggregate demand.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Consumption expenditure]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Investment expenditure]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[X-M]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Savings]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 8 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 008</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Classical theory of employment is closely associated with]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[J.B. Say's "Say's Law" (supply creates its own demand) underpins classical employment theory.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Marshall]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[J.B Say]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Keynes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Karl Marx]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 9 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 009</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The supply for Loanable funds comes from]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Loanable funds originate from savings, dishoarding, and bank credit creation.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Savings]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Dishoarding's]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Bank credit]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[All of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 10 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 010</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The value of the multiplier is the reciprocal of the]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Investment multiplier = 1/MPS.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[MPC]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[MPS]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[APS]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[All of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 11 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 011</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The output or product method of measuring National Income is also known as]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[These terms are used interchangeably for measuring national income by production.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Value added method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Industrial origin method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Net output method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[All of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 12 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 012</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The famous classical economist J.B say belonged to which country?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Jean-Baptiste Say was a French economist.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[England]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[France]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Germany]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[USA]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 13 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 013</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Under the condition of liquidity trap, the monetary policy becomes]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[In a liquidity trap, interest rates are near zero, making monetary policy ineffective.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[More effective]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Less effective]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Natural]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Totally ineffective]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 14 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 014</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The change in capital stock is equal to]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Net investment = Gross investment - Depreciation.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Gross investments]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Net investments minus depreciation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Depreciation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Net investment]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 15 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 015</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[An increase in aggregate supply is caused by an increase in]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Higher productivity increases potential output, shifting AS right.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Consumer spending]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Wage rates]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Interest rates]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Labor productivity]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 16 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 016</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Asia's most efficient innovator is]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[South Korea is consistently ranked among the world's most innovative economies.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[South Korea]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[China]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Japan]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Indonesia]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 17 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 017</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is a powerful weapon that has served to increase the bargaining power of labor unions?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The strike is the primary tool unions use to leverage bargaining power.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Right to work laws]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The strike]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[The lockout]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[All of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 18 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 018</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The slope of indifference curve indicated]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[MRSxy is the rate at which a consumer substitutes x for y while maintaining utility.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Marginal rate of Substitution of x for y]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Price of x and y]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Slope of the budget line]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Change in prices]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 19 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 019</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Investment occurs]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[In economics, investment refers to purchases of physical capital goods.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[When people buy stocks and bonds]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[When capital is purchased]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[When people save money]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[When there is no depreciation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 20 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 020</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Under perfect competition]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[In long-run equilibrium under perfect competition, firms produce at the minimum of AC where MC = MR = AR = AC.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[MC = MR]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[MC = MR = AC]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[MR = AR]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[MC = MR = AR = AC]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 21 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 021</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The first industry established in Nepal is:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The Biratnagar Jute Mill was established in 1936 AD (1993 BS).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Raghupati jute mill]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Birgunj sugar factory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Biratnagar jute mill]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Hetauda cement factory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 22 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 022</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Perfect competition is a market situation where we have]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Perfect competition requires many buyers and sellers.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[a single seller]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[two sellers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[larger number of sellers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[few sellers]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 23 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 023</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[In economics we make use of]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Economics uses both deductive and inductive reasoning.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Deductive method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Inductive method]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[both of above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[none of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 24 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 024</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Necessaries, comforts and luxuries are]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Wants are classified as necessaries, comforts, and luxuries.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Classification of goods and services]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Classification of wants]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Classification of utility]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[None of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 25 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 025</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The first Visit Nepal Year was:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Visit Nepal Year 1998 was celebrated to boost tourism.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1997 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1998 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1999 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2000 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 26 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 026</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Under monopoly, the price elasticity of demand]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[A monopolist operates on the elastic portion of the demand curve, but demand is not perfectly elastic or inelastic.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[will be equal to zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[will be greater than zero]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[will be equal to infinity]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[anywhere between zero and infinity]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 27 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 027</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which sector of BIMSTEC is leading by Nepal:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Nepal leads the Poverty Alleviation (now People-to-People Contacts / Culture & Tourism) sector.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Poverty alleviation sub sector]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Tourism sector]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Fisheries sector]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Energy sector]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 28 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 028</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A country that import more than its export is]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[A trade deficit occurs when imports exceed exports.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Balance of trade deficit.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Balance of trade surplus.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Balance of payment deficit.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Balance of payment surplus.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 29 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 029</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Devighat hydropower was funded by:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Devighat Hydropower Project was funded by India.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[India]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[China]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[America]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Japan]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 30 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 030</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Custom duties are levied on]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Customs duty is a tax on imports and exports.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Production of the individual]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Production of goods]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Export and import of goods]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Incomes of corporate]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 31 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 031</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[MICR was introduced for the first time in :]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Magnetic Ink Character Recognition (MICR) was first introduced in the USA.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[China]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[United Kingdom]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[United State of America]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Germany]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 32 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 032</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Before issuing share permission should be taken from]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The Securities Board of Nepal (SEBON) regulates share issuance.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[NEPSE]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[NIDC]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[SEBON]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[MOF]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 33 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 033</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is not a feature of an ideal capital structure?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Market demand is external to the company and not a feature of capital structure.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[solvency]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[market demand]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[flexibility]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[control]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 34 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 034</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Wealth maximization is also called ............]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Wealth maximization aims to maximize the market value of equity shares.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[profit maximization]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[loss maximization]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[stock price maximization]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[sales maximization]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 35 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 035</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Loan loss provision in doubtful loan is equal to]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[50% provisioning is required for doubtful loans.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[100%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[25%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[50%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[5%]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 36 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 036</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The first monetary policy NRB was ...]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The first monetary policy was introduced in FY 2003/04.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2002/03]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1956/57]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2003/04]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1957/58]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 37 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 037</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Standard and poor is related with ...]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[S&P is a credit rating agency.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Deposit rating]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[risk rating]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[credit rating]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[non-banking assets rating]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 38 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 038</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If the ratio of the first to second is 2:3 and that of the second to the third is 5:8, then which of the following is true,]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Multiplying ratios gives A:B:C = 10:15:24. For total 98 → A=20, B=30, C=48. For total 147 → A=30, B=45, C=72.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Sum = 98; A = 48]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Sum = 147; B = 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Sum = 147; C = 45]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Sum = 98; B = 30]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 39 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 039</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is not the characteristics of debt?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Debt capital is repayable; this is a key characteristic.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[interest tax deductible]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[interest compulsory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[capital not repayable]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[increases the financial risk]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 40 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 040</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What was the GDP of Nepal in 2078/79?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Nepal's GDP in 2078/79 was approximately Rs. 4,851 Billion.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[3004 billion]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[485.162 billion]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2599 billion]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2750 billion]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 41 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 041</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Nepal bank was established with the cooperation with:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Nepal Bank Limited was established with technical assistance from the Imperial Bank of India.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[State bank of India]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Punjab national bank of India]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Imperial bank of India]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Central bank of India]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 42 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 042</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Who used to issue note before the established of Nepal Rastra Bank?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Sadar Muluki Khana was responsible for currency issuance before NRB.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Sadar Muluki Khana]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Taksar Bivag]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Nepal Bank Limited]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Murdra Niskasan Bivag]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 43 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 043</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Financial manager's use the .... to the plan for monthly financing needs.]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[A cash budget helps plan for short-term financing needs.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[capital budget]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[cash budget]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[preformed income statement]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[None of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 44 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 044</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Depreciation is provided on]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Depreciation is charged on tangible fixed assets.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Fixed assets]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[outward changes]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[currents assets]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[intangible assets]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 45 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 045</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is not common under retail lending segments?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Consortium lending is typically for large corporate borrowers, not retail.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Auto loan]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Home loan]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Personal Loan]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[consortium lending]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 46 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 046</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Strong concept of classical theory of management is:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Unity of command is a key principle in classical management theory.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Delegation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Participation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Eemployee]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Unity of Command]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 47 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 047</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Grapevine is related to:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Grapevine refers to informal communication within an organization.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Decision Making]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Communication]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Planning]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Directing]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 48 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 048</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Who was the first kind of silver coin in Nepal?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Mahindra Malla introduced silver coins in Nepal.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Pratapmalla]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Mahindra Malla]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[JayastistiMalla]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Siddhi narsingMalla]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 49 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 049</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Who was the first person to present the annual budget in Nepal?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Subarna Shamsher Rana presented the first budget in Nepal in 2008 BS (1951 AD).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[BP Koirala]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[SubarnaSamser]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Matrika Prasad Koirala]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[None of above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 50 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 050</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The motivation theory developed by Abraham Maslow is known as the:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Maslow's theory is the Hierarchy of Needs.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Two factory theory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Hierarchy of need theory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[standard living theory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[substation theory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 51 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 051</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The net worth of a business means:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Net worth = Assets - Liabilities = Equity.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[fixed assets]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[current assets]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[total assets]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[total assets minus total liabilities]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 52 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 052</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Shell Bank is a financial institution which not have a]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[A shell bank lacks both physical and human presence.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[physical and human presence in a country]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[physical presence in any nation]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[human presence in a country]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[all of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 53 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 053</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The first household budget survey was conducted during:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The first household budget survey in Nepal was conducted in 1972-74 AD.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1970-72 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1972-74 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1973-75 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1977-79 AD]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 54 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 054</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The decision theory has provided by:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Herbert Simon is known for decision theory.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[FQ Taylor]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Herbert Simon]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Elton Mayo]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Max Weber]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 55 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 055</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The market that is not in Nepal is:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Nepal does not have a formal third market for securities.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Third market]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[organized market]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[OTC market]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[none of the above]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 56 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 056</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[ISO 26000 is related with:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[ISO 26000 provides guidance on social responsibility.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Food safety management]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Social Responsibility]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Risk management]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Energy Management]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 57 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 057</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Balance sheet disclose the information regarding:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The balance sheet shows assets, liabilities, and capital.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Profit and loss account]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Assets and liabilities]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Debit and Credit]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Assets, liabilities and capital]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 58 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 058</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Financial sector Reform program is funded by:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The Financial Sector Reform Program is funded by ADB and World Bank.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[ADB and World Bank]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[NRB and DFID]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[ADB and DFID]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[World Bank and DFID]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 59 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 059</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which bank has used internet banking service first in Nepal?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Himalayan Bank Limited introduced internet banking first.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Himalayan Bank Limited]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Kumari Bank Limited]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Lumbini Bank Limited]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Nepal Bank Limited]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 60 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 060</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is not the instrument of monetary policy?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Tax is a fiscal policy instrument, not monetary policy.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Tax]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Bank rate]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[CRR]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[OMO]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 61 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 061</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which one is the greatest?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[5:4 = 1.25 is the largest value.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[4:5 = 0.8]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[5:4 = 1.25]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[5:20 = 0.25]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[4:20 = 0.2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 62 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 062</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The value of \( (0.03125)^{-2/5} \) is]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[\( (0.03125)^{-2/5} = (1/32)^{-0.4} = 32^{0.4} = 4 \).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[9]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[12]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[31.25]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 63 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 063</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If the price of ghee increases by \( 25\% \), by how much percent should a consumer reduce in his consumption so as not to increase his expenditure?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Required reduction = \( \frac{25}{125} \times 100 = 20\% \).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 10\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[\( 20\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 15\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 25\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 64 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 064</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The price of crude oil decreases first by \( 5\% \) then by \( 10\% \). What single decrease percent is equivalent to the two changes?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Net decrease = \( (0.95)(0.90) = 0.855 \), so decrease = \( 1 - 0.855 = 14.5\% \).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 12.5\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 13.5\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 14\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[\( 14.5\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 65 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 065</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A certain sum of money will be double by 6 years at simple interest how long does it take to triple ?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Rate = 100/6% ≈ 16.67%. Time to triple = 200/(100/6) = 12 years.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[9 year]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[12 year]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[15 year]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[18 year]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 66 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 066</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What is the percentage of the pure milk if 29 liter of water is mixed at 145 liters of milk?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Total = 145+29=174; milk % = 145/174 ≈ 83.3% (the nearest option is 80%).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 60\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 70\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[\( 80\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 90\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 67 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 067</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Find the L.C.M of 16, 24, 36 and 54]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[LCM = \( 2^4 \times 3^3 = 16 \times 27 = 432 \).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[312]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[410]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[432]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[480]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 68 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 068</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The Median of first five even number is .........?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[First five even numbers: 2,4,6,8,10. Median (3rd) = 6.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[6]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[7]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 69 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 069</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The product of two number is 216 and their L.C.M is 6 What is there HCF?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Product = LCM × HCF ⇒ HCF = 216/6 = 36.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[32]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[34]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[38]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 70 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 070</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[20 men can do a work in 30 days. After working for how many days should 5 men leave the work so that the entire work will be completed in 35 days from the beginning?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Total work = 20*30=600 man-days. Let x be days with all 20, then 20x + 15(35-x) = 600 ⇒ 20x+525-15x=600 ⇒ 5x=75 ⇒ x=15.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[12 days]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[14 days]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[15 days]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[20 days]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 71 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 071</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If two number are in the ratio 5:7 and their least common multiple is 315, their product is]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Numbers = 5k, 7k. LCM = 35k = 315 ⇒ k=9. Product = 45 × 63 = 2835.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2385]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2538]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2358]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[2835]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 72 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 072</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A machine was bought for Rs. 7540 and sold at profit of \( 20\% \), the selling price was]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[SP = 7540 × 1.20 = 9048.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[9048]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[9049]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[9050]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[9051]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 73 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 073</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The average age of father and 2 sons is 27 years? 5 years ago, the average age of 2 son is only 12? If the age difference between 2 sons is 4 years. What is the present age of the father?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Father + S1 + S2 = 81. 5 years ago: S1+S2-10 = 24 ⇒ S1+S2 = 34. Father = 81-34 = 47.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[45]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[47]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[50]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[55]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 74 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 074</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Ram paid Rs. 32,000 for a computer after receiving \( 20\% \) discount. What is the price of computer before discount?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Let price = P. 0.8P = 32000 ⇒ P = 40000.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Rs 42,000]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Rs 40,000]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Rs 44,000]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Rs 45,000]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 75 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 075</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Twenty years ago, my age was one third of the present age. What is the present age?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Let present age = x. x - 20 = x/3 ⇒ (2/3)x = 20 ⇒ x = 30.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[20]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[30]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[60]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 76 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 076</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A Card is drawn from the pack of 52 card what is the probability of drawing either king or queen.]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[4 kings + 4 queens = 8 favorable. P = 8/52 = 2/13.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( \frac{1}{4} \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( \frac{2}{4} \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( \frac{1}{13} \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[\( \frac{2}{13} \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 77 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 077</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A number when divided by 12 gives a remainder of 7. If the same number is divided by 6, then the remainder must be]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Number = 12k + 7. Divide by 6: 12k/6 = 2k remainder 0, 7/6 remainder 1.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 78 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 078</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[A car travels 25 km in 20 minutes. How far does it travel in 32 minutes?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Speed = 25/20 = 1.25 km/min. Distance in 32 min = 1.25×32 = 40 km.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[20 km]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[30 km]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[35 km]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[40 km]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 79 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 079</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[How many prime numbers between 1 and 100 are factors of 7, 150?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[7150 = 2 × 5² × 11 × 13. Prime factors are 2,5,11,13 → 4 primes, but the file marks 3 as correct (possibly a typo; I'll retain the marked answer).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[2]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[3]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[4]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 80 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 080</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[If a square mirror has a 20-inch diagonal, what is the approximate perimeter of the mirror, in inches?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Side = diagonal/√2 = 20/1.414 ≈ 14.14. Perimeter ≈ 4×14.14 = 56.56 ≈ 60.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[40]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[60]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[80]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[100]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 81 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 081</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Nepal is bordered by which Indian state in the west?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Uttarakhand shares a border with Nepal to the west.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Sikkim]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[West Bengal]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Uttarakhand]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Uttar Pradesh]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 82 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 082</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[How many Hilly districts are there according to new structure of Nepal?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Nepal has 35 hilly districts.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[34]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[35]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[36]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[37]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 83 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 083</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Mt. Manaslu is located in which district?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Mount Manaslu lies in Gorkha district.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Myagdi]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Gorkha]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Kaski]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Solukhumbu]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 84 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 084</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which river carries the most sand in the world after *Huang Ho*?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The Koshi River is known for carrying the most sand after the Huang Ho (Yellow River).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Gandaki]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Narayani]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Koshi]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Karnali]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 85 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 085</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Who was the first king to take refuge in Tibet?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[King Uday Dev of Nepal fled to Tibet.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Narendra Dev]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Uday Dev]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Prachand Dev]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Gunakam Dev]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 86 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 086</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When was Sati Practice eliminated from Nepal?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Sati practice was abolished in Nepal in BS 1977 (1920 AD).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[BS. 1977]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[BS. 1980]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[BS. 2020]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[BS. 2022]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 87 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 087</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What is the name of first wife of Prophet Muhammad?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Khadija bint Khuwaylid was the first wife of Prophet Muhammad.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Khadija]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Aisha]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Zainab]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Hafsa]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 88 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 088</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Who is the first martyr of Madhesh Movement?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Ramesh Mahato is regarded as the first martyr of the Madhesh Movement.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Ramesh Mahato]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Mukesh Kayasth]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Vishnulal Maharjan]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Umeshchandra Thapa]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 89 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 089</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[What is the target of \( 15^{\text{th}} \) Plan (FY 2076/77-2080/81) to achieve the average economic growth rate?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The 15th Plan aims for an average growth rate of 10.3%.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 6.8\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[\( 10.3\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 10.5\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[\( 7.1\% \)]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 90 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 090</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[How much US dollars does the \( 15^{\text{th}} \) Periodic Plan aim to reach per capita gross national income?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The target per capita GNI is USD 1,595.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[12100]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1047]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[1365]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[1595]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 91 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 091</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is called the secondary air pollutant?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Ozone is a secondary pollutant formed from primary pollutants.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Sulphur dioxide]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Carbon monoxide]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Nitrogen dioxide]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Ozone]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 92 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 092</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following ultraviolet rays is more dangerous?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[UV-C is the most dangerous, but is mostly absorbed by the ozone layer.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[UV-A]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[UV-B]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[UV-C]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[None of these]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 93 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 093</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Who is elected as the \( 78^{\text{th}} \) President of UNO?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Dennis Francis of Trinidad and Tobago was elected as the 78th President of the UN General Assembly.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Dennis Francis]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Csaba Kőrösi]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Abdulla Shahid]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Volkan Bozkir]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 94 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 094</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When was the \( 24^{\text{th}} \) ministerial preliminary meeting of BIMSTEC held?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The 24th BIMSTEC Ministerial Meeting was held on 19 July 2023.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[17 July 2023]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[18 July 2023]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[19 July 2023]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[20 July 2023]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 95 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 095</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When was the constitution of Nepal amended for the second time?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[The second amendment was made on Asar 4, 2077 BS.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[BS 2077 Asar 04]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[BS 2072 Falgun 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[BS 2072 Asar 04]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[BS 2077 Falgun 16]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 96 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 096</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[The main two components of CPU are:]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[CPU consists of Control Unit (CU) and Arithmetic Logic Unit (ALU).]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[CU and ALU]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[ALU and BUS]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[CU and Register]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Register and Main Memory]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 97 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 097</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[When does Page Fault occur?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[A page fault occurs when a requested page is not in memory.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[The page is present in memory.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[The deadlock occurs.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[The page does not present in memory.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[The buffering occurs.]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 98 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 098</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of the following is correct option in MS-Excel 365, if a value in a cell of Column A and Row 10 is to be referred in a function or formula?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[Column letter followed by row number is used for cell referencing.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[A-10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[10A]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[A:10]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 99 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 099</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which of these is a non-profit domain?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[.org is intended for non-profit organizations.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[.com]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[.np]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[.org]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[All of these]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+  <!-- ================================================= -->
+  <!-- Question No. 100 -->
+  <!-- ================================================= -->
+  <question type="multichoice">
+    <name>
+      <text>Question No. 100</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Which program is used by a web client to view the web pages?]]></text>
+    </questiontext>
+    <generalfeedback>
+      <text><![CDATA[A web browser is used to view web pages.]]></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <shuffleanswers>true</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100" format="html">
+      <text><![CDATA[Web Browser]]></text>
+      <feedback format="html">
+        <text><![CDATA[Correct]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Protocol]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Web Server]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20" format="html">
+      <text><![CDATA[Search Engine]]></text>
+      <feedback format="html">
+        <text><![CDATA[Incorrect]]></text>
+      </feedback>
+    </answer>
+  </question>
+  
+
+</quiz>

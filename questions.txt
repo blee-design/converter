@@ -1,0 +1,714 @@
+[group: Group: Economics, Trade & Industry ]
+
+Question No. 1: Elinor Ostrom's Nobel-winning empirical work on economic governance directly challenged which influential economic theory?
+Option: The Tragedy of the Commons *
+Option: The Lucas Critique
+Option: The Theory of Comparative Advantage
+Option: The Coase Theorem
+General Feedback: Ostrom demonstrated that common-pool resources can be managed sustainably by communities, challenging the conventional "Tragedy of the Commons" model.
+
+Question No. 2: When the elasticity of substitution is zero, then the iso-quant is
+Option: Convex
+Option: Concave
+Option: L shaped *
+Option: U shaped
+General Feedback: Zero elasticity of substitution implies fixed proportions (Leontief production function), resulting in L-shaped isoquants.
+
+Question No. 3: Under constant cost conditions, the product transformation curve is
+Option: Straight line *
+Option: Concave curve
+Option: Convex curve
+Option: Both b and c
+General Feedback: Under constant opportunity costs, the production possibility frontier is a straight line.
+
+Question No. 4: In the long run, monopoly profits
+Option: Go to zero
+Option: Don't change
+Option: May increase *
+Option: All of these
+General Feedback: Monopoly profits can persist or even increase in the long run due to barriers to entry.
+
+Question No. 5: Production function is a technical relationship between
+Option: Input and cost
+Option: Input and revenue
+Option: Input and output *
+Option: Output and cost
+General Feedback: A production function shows the maximum output obtainable from given inputs.
+
+Question No. 6: Who develop the theory of game?
+Option: Neumann and Morgenstern *
+Option: William J. Baumol
+Option: J.R Hicks
+Option: Samuelson P. A.
+General Feedback: John von Neumann and Oskar Morgenstern developed game theory in their 1944 book.
+
+Question No. 7: Which of the following does not add to aggregate demand?
+Option: Consumption expenditure
+Option: Investment expenditure
+Option: X-M
+Option: Savings *
+General Feedback: Savings reduce current consumption and do not directly contribute to aggregate demand.
+
+Question No. 8: Classical theory of employment is closely associated with
+Option: Marshall
+Option: J.B Say *
+Option: Keynes
+Option: Karl Marx
+General Feedback: J.B. Say's "Say's Law" (supply creates its own demand) underpins classical employment theory.
+
+Question No. 9: The supply for Loanable funds comes from
+Option: Savings
+Option: Dishoarding's
+Option: Bank credit
+Option: All of the above *
+General Feedback: Loanable funds originate from savings, dishoarding, and bank credit creation.
+
+Question No. 10: The value of the multiplier is the reciprocal of the
+Option: MPC
+Option: MPS *
+Option: APS
+Option: All of the above
+General Feedback: Investment multiplier = 1/MPS.
+
+Question No. 11: The output or product method of measuring National Income is also known as
+Option: Value added method
+Option: Industrial origin method
+Option: Net output method
+Option: All of the above *
+General Feedback: These terms are used interchangeably for measuring national income by production.
+
+Question No. 12: The famous classical economist J.B say belonged to which country?
+Option: England
+Option: France *
+Option: Germany
+Option: USA
+General Feedback: Jean-Baptiste Say was a French economist.
+
+Question No. 13: Under the condition of liquidity trap, the monetary policy becomes
+Option: More effective
+Option: Less effective
+Option: Natural
+Option: Totally ineffective *
+General Feedback: In a liquidity trap, interest rates are near zero, making monetary policy ineffective.
+
+Question No. 14: The change in capital stock is equal to
+Option: Gross investments
+Option: Net investments minus depreciation
+Option: Depreciation
+Option: Net investment *
+General Feedback: Net investment = Gross investment - Depreciation.
+
+Question No. 15: An increase in aggregate supply is caused by an increase in
+Option: Consumer spending
+Option: Wage rates
+Option: Interest rates
+Option: Labor productivity *
+General Feedback: Higher productivity increases potential output, shifting AS right.
+
+Question No. 16: Asia's most efficient innovator is
+Option: South Korea *
+Option: China
+Option: Japan
+Option: Indonesia
+General Feedback: South Korea is consistently ranked among the world's most innovative economies.
+
+Question No. 17: Which of the following is a powerful weapon that has served to increase the bargaining power of labor unions?
+Option: Right to work laws
+Option: The strike *
+Option: The lockout
+Option: All of the above
+General Feedback: The strike is the primary tool unions use to leverage bargaining power.
+
+Question No. 18: The slope of indifference curve indicated
+Option: Marginal rate of Substitution of x for y *
+Option: Price of x and y
+Option: Slope of the budget line
+Option: Change in prices
+General Feedback: MRSxy is the rate at which a consumer substitutes x for y while maintaining utility.
+
+Question No. 19: Investment occurs
+Option: When people buy stocks and bonds
+Option: When capital is purchased *
+Option: When people save money
+Option: When there is no depreciation
+General Feedback: In economics, investment refers to purchases of physical capital goods.
+
+Question No. 20: Under perfect competition
+Option: MC = MR
+Option: MC = MR = AC
+Option: MR = AR
+Option: MC = MR = AR = AC *
+General Feedback: In long-run equilibrium under perfect competition, firms produce at the minimum of AC where MC = MR = AR = AC.
+
+Question No. 21: The first industry established in Nepal is:
+Option: Raghupati jute mill
+Option: Birgunj sugar factory
+Option: Biratnagar jute mill *
+Option: Hetauda cement factory
+General Feedback: The Biratnagar Jute Mill was established in 1936 AD (1993 BS).
+
+Question No. 22: Perfect competition is a market situation where we have
+Option: a single seller
+Option: two sellers
+Option: larger number of sellers *
+Option: few sellers
+General Feedback: Perfect competition requires many buyers and sellers.
+
+Question No. 23: In economics we make use of
+Option: Deductive method
+Option: Inductive method
+Option: both of above *
+Option: none of the above
+General Feedback: Economics uses both deductive and inductive reasoning.
+
+Question No. 24: Necessaries, comforts and luxuries are
+Option: Classification of goods and services
+Option: Classification of wants *
+Option: Classification of utility
+Option: None of the above
+General Feedback: Wants are classified as necessaries, comforts, and luxuries.
+
+Question No. 25: The first Visit Nepal Year was:
+Option: 1997 AD
+Option: 1998 AD *
+Option: 1999 AD
+Option: 2000 AD
+General Feedback: Visit Nepal Year 1998 was celebrated to boost tourism.
+
+Question No. 26: Under monopoly, the price elasticity of demand
+Option: will be equal to zero
+Option: will be greater than zero
+Option: will be equal to infinity
+Option: anywhere between zero and infinity *
+General Feedback: A monopolist operates on the elastic portion of the demand curve, but demand is not perfectly elastic or inelastic.
+
+Question No. 27: Which sector of BIMSTEC is leading by Nepal:
+Option: Poverty alleviation sub sector *
+Option: Tourism sector
+Option: Fisheries sector
+Option: Energy sector
+General Feedback: Nepal leads the Poverty Alleviation (now People-to-People Contacts / Culture & Tourism) sector.
+
+Question No. 28: A country that import more than its export is
+Option: Balance of trade deficit. *
+Option: Balance of trade surplus.
+Option: Balance of payment deficit.
+Option: Balance of payment surplus.
+General Feedback: A trade deficit occurs when imports exceed exports.
+
+Question No. 29: Devighat hydropower was funded by:
+Option: India *
+Option: China
+Option: America
+Option: Japan
+General Feedback: Devighat Hydropower Project was funded by India.
+
+Question No. 30: Custom duties are levied on
+Option: Production of the individual
+Option: Production of goods
+Option: Export and import of goods *
+Option: Incomes of corporate
+General Feedback: Customs duty is a tax on imports and exports.
+
+---
+
+[group: Group: Banking and Finance]
+
+Question No. 31: MICR was introduced for the first time in :
+Option: China
+Option: United Kingdom
+Option: United State of America *
+Option: Germany
+General Feedback: Magnetic Ink Character Recognition (MICR) was first introduced in the USA.
+
+Question No. 32: Before issuing share permission should be taken from
+Option: NEPSE
+Option: NIDC
+Option: SEBON *
+Option: MOF
+General Feedback: The Securities Board of Nepal (SEBON) regulates share issuance.
+
+Question No. 33: Which of the following is not a feature of an ideal capital structure?
+Option: solvency
+Option: market demand *
+Option: flexibility
+Option: control
+General Feedback: Market demand is external to the company and not a feature of capital structure.
+
+Question No. 34: Wealth maximization is also called ............
+Option: profit maximization
+Option: loss maximization
+Option: stock price maximization *
+Option: sales maximization
+General Feedback: Wealth maximization aims to maximize the market value of equity shares.
+
+Question No. 35: Loan loss provision in doubtful loan is equal to
+Option: 100%
+Option: 25%
+Option: 50% *
+Option: 5%
+General Feedback: 50% provisioning is required for doubtful loans.
+
+Question No. 36: The first monetary policy NRB was ...
+Option: 2002/03
+Option: 1956/57
+Option: 2003/04 *
+Option: 1957/58
+General Feedback: The first monetary policy was introduced in FY 2003/04.
+
+Question No. 37: Standard and poor is related with ...
+Option: Deposit rating
+Option: risk rating
+Option: credit rating *
+Option: non-banking assets rating
+General Feedback: S&P is a credit rating agency.
+
+Question No. 38: If the ratio of the first to second is 2:3 and that of the second to the third is 5:8, then which of the following is true,
+Option: Sum = 98; A = 48
+Option: Sum = 147; B = 30
+Option: Sum = 147; C = 45
+Option: Sum = 98; B = 30 *
+General Feedback: Multiplying ratios gives A:B:C = 10:15:24. For total 98 → A=20, B=30, C=48. For total 147 → A=30, B=45, C=72.
+
+Question No. 39: Which of the following is not the characteristics of debt?
+Option: interest tax deductible
+Option: interest compulsory
+Option: capital not repayable *
+Option: increases the financial risk
+General Feedback: Debt capital is repayable; this is a key characteristic.
+
+Question No. 40: What was the GDP of Nepal in 2078/79?
+Option: 3004 billion
+Option: 485.162 billion *
+Option: 2599 billion
+Option: 2750 billion
+General Feedback: Nepal's GDP in 2078/79 was approximately Rs. 4,851 Billion.
+
+Question No. 41: Nepal bank was established with the cooperation with:
+Option: State bank of India
+Option: Punjab national bank of India
+Option: Imperial bank of India *
+Option: Central bank of India
+General Feedback: Nepal Bank Limited was established with technical assistance from the Imperial Bank of India.
+
+Question No. 42: Who used to issue note before the established of Nepal Rastra Bank?
+Option: Sadar Muluki Khana *
+Option: Taksar Bivag
+Option: Nepal Bank Limited
+Option: Murdra Niskasan Bivag
+General Feedback: Sadar Muluki Khana was responsible for currency issuance before NRB.
+
+Question No. 43: Financial manager's use the .... to the plan for monthly financing needs.
+Option: capital budget
+Option: cash budget *
+Option: preformed income statement
+Option: None of the above
+General Feedback: A cash budget helps plan for short-term financing needs.
+
+Question No. 44: Depreciation is provided on
+Option: Fixed assets *
+Option: outward changes
+Option: currents assets
+Option: intangible assets
+General Feedback: Depreciation is charged on tangible fixed assets.
+
+Question No. 45: Which of the following is not common under retail lending segments?
+Option: Auto loan
+Option: Home loan
+Option: Personal Loan
+Option: consortium lending *
+General Feedback: Consortium lending is typically for large corporate borrowers, not retail.
+
+Question No. 46: Strong concept of classical theory of management is:
+Option: Delegation
+Option: Participation
+Option: Eemployee
+Option: Unity of Command *
+General Feedback: Unity of command is a key principle in classical management theory.
+
+Question No. 47: Grapevine is related to:
+Option: Decision Making
+Option: Communication *
+Option: Planning
+Option: Directing
+General Feedback: Grapevine refers to informal communication within an organization.
+
+Question No. 48: Who was the first kind of silver coin in Nepal?
+Option: Pratapmalla
+Option: Mahindra Malla *
+Option: JayastistiMalla
+Option: Siddhi narsingMalla
+General Feedback: Mahindra Malla introduced silver coins in Nepal.
+
+Question No. 49: Who was the first person to present the annual budget in Nepal?
+Option: BP Koirala
+Option: SubarnaSamser *
+Option: Matrika Prasad Koirala
+Option: None of above
+General Feedback: Subarna Shamsher Rana presented the first budget in Nepal in 2008 BS (1951 AD).
+
+Question No. 50: The motivation theory developed by Abraham Maslow is known as the:
+Option: Two factory theory
+Option: Hierarchy of need theory *
+Option: standard living theory
+Option: substation theory
+General Feedback: Maslow's theory is the Hierarchy of Needs.
+
+Question No. 51: The net worth of a business means:
+Option: fixed assets
+Option: current assets
+Option: total assets
+Option: total assets minus total liabilities *
+General Feedback: Net worth = Assets - Liabilities = Equity.
+
+Question No. 52: Shell Bank is a financial institution which not have a
+Option: physical and human presence in a country *
+Option: physical presence in any nation
+Option: human presence in a country
+Option: all of the above
+General Feedback: A shell bank lacks both physical and human presence.
+
+Question No. 53: The first household budget survey was conducted during:
+Option: 1970-72 AD
+Option: 1972-74 AD *
+Option: 1973-75 AD
+Option: 1977-79 AD
+General Feedback: The first household budget survey in Nepal was conducted in 1972-74 AD.
+
+Question No. 54: The decision theory has provided by:
+Option: FQ Taylor
+Option: Herbert Simon *
+Option: Elton Mayo
+Option: Max Weber
+General Feedback: Herbert Simon is known for decision theory.
+
+Question No. 55: The market that is not in Nepal is:
+Option: Third market *
+Option: organized market
+Option: OTC market
+Option: none of the above
+General Feedback: Nepal does not have a formal third market for securities.
+
+Question No. 56: ISO 26000 is related with:
+Option: Food safety management
+Option: Social Responsibility *
+Option: Risk management
+Option: Energy Management
+General Feedback: ISO 26000 provides guidance on social responsibility.
+
+Question No. 57: Balance sheet disclose the information regarding:
+Option: Profit and loss account
+Option: Assets and liabilities
+Option: Debit and Credit
+Option: Assets, liabilities and capital *
+General Feedback: The balance sheet shows assets, liabilities, and capital.
+
+Question No. 58: Financial sector Reform program is funded by:
+Option: ADB and World Bank *
+Option: NRB and DFID
+Option: ADB and DFID
+Option: World Bank and DFID
+General Feedback: The Financial Sector Reform Program is funded by ADB and World Bank.
+
+Question No. 59: Which bank has used internet banking service first in Nepal?
+Option: Himalayan Bank Limited *
+Option: Kumari Bank Limited
+Option: Lumbini Bank Limited
+Option: Nepal Bank Limited
+General Feedback: Himalayan Bank Limited introduced internet banking first.
+
+Question No. 60: Which of the following is not the instrument of monetary policy?
+Option: Tax *
+Option: Bank rate
+Option: CRR
+Option: OMO
+General Feedback: Tax is a fiscal policy instrument, not monetary policy.
+
+---
+
+[group: Group: Basic Mathematics and Statistics]
+
+Question No. 61: Which one is the greatest?
+Option: 4:5 = 0.8
+Option: 5:4 = 1.25 *
+Option: 5:20 = 0.25
+Option: 4:20 = 0.2
+General Feedback: 5:4 = 1.25 is the largest value.
+
+Question No. 62: The value of \( (0.03125)^{-2/5} \) is
+Option: 4 *
+Option: 9
+Option: 12
+Option: 31.25
+General Feedback: \( (0.03125)^{-2/5} = (1/32)^{-0.4} = 32^{0.4} = 4 \).
+
+Question No. 63: If the price of ghee increases by \( 25\% \), by how much percent should a consumer reduce in his consumption so as not to increase his expenditure?
+Option: \( 10\% \)
+Option: \( 20\% \) *
+Option: \( 15\% \)
+Option: \( 25\% \)
+General Feedback: Required reduction = \( \frac{25}{125} \times 100 = 20\% \).
+
+Question No. 64: The price of crude oil decreases first by \( 5\% \) then by \( 10\% \). What single decrease percent is equivalent to the two changes?
+Option: \( 12.5\% \)
+Option: \( 13.5\% \)
+Option: \( 14\% \)
+Option: \( 14.5\% \) *
+General Feedback: Net decrease = \( (0.95)(0.90) = 0.855 \), so decrease = \( 1 - 0.855 = 14.5\% \).
+
+Question No. 65: A certain sum of money will be double by 6 years at simple interest how long does it take to triple ?
+Option: 9 year
+Option: 12 year *
+Option: 15 year
+Option: 18 year
+General Feedback: Rate = 100/6% ≈ 16.67%. Time to triple = 200/(100/6) = 12 years.
+
+Question No. 66: What is the percentage of the pure milk if 29 liter of water is mixed at 145 liters of milk?
+Option: \( 60\% \)
+Option: \( 70\% \)
+Option: \( 80\% \) *
+Option: \( 90\% \)
+General Feedback: Total = 145+29=174; milk % = 145/174 ≈ 83.3% (the nearest option is 80%).
+
+Question No. 67: Find the L.C.M of 16, 24, 36 and 54
+Option: 312
+Option: 410
+Option: 432 *
+Option: 480
+General Feedback: LCM = \( 2^4 \times 3^3 = 16 \times 27 = 432 \).
+
+Question No. 68: The Median of first five even number is .........?
+Option: 2
+Option: 4
+Option: 6 *
+Option: 7
+General Feedback: First five even numbers: 2,4,6,8,10. Median (3rd) = 6.
+
+Question No. 69: The product of two number is 216 and their L.C.M is 6 What is there HCF?
+Option: 32
+Option: 34
+Option: 36 *
+Option: 38
+General Feedback: Product = LCM × HCF ⇒ HCF = 216/6 = 36.
+
+Question No. 70: 20 men can do a work in 30 days. After working for how many days should 5 men leave the work so that the entire work will be completed in 35 days from the beginning?
+Option: 12 days
+Option: 14 days
+Option: 15 days *
+Option: 20 days
+General Feedback: Total work = 20*30=600 man-days. Let x be days with all 20, then 20x + 15(35-x) = 600 ⇒ 20x+525-15x=600 ⇒ 5x=75 ⇒ x=15.
+
+Question No. 71: If two number are in the ratio 5:7 and their least common multiple is 315, their product is
+Option: 2385
+Option: 2538
+Option: 2358
+Option: 2835 *
+General Feedback: Numbers = 5k, 7k. LCM = 35k = 315 ⇒ k=9. Product = 45 × 63 = 2835.
+
+Question No. 72: A machine was bought for Rs. 7540 and sold at profit of \( 20\% \), the selling price was
+Option: 9048 *
+Option: 9049
+Option: 9050
+Option: 9051
+General Feedback: SP = 7540 × 1.20 = 9048.
+
+Question No. 73: The average age of father and 2 sons is 27 years? 5 years ago, the average age of 2 son is only 12? If the age difference between 2 sons is 4 years. What is the present age of the father?
+Option: 45
+Option: 47 *
+Option: 50
+Option: 55
+General Feedback: Father + S1 + S2 = 81. 5 years ago: S1+S2-10 = 24 ⇒ S1+S2 = 34. Father = 81-34 = 47.
+
+Question No. 74: Ram paid Rs. 32,000 for a computer after receiving \( 20\% \) discount. What is the price of computer before discount?
+Option: Rs 42,000
+Option: Rs 40,000 *
+Option: Rs 44,000
+Option: Rs 45,000
+General Feedback: Let price = P. 0.8P = 32000 ⇒ P = 40000.
+
+Question No. 75: Twenty years ago, my age was one third of the present age. What is the present age?
+Option: 20
+Option: 30 *
+Option: 40
+Option: 60
+General Feedback: Let present age = x. x - 20 = x/3 ⇒ (2/3)x = 20 ⇒ x = 30.
+
+Question No. 76: A Card is drawn from the pack of 52 card what is the probability of drawing either king or queen.
+Option: \( \frac{1}{4} \)
+Option: \( \frac{2}{4} \)
+Option: \( \frac{1}{13} \)
+Option: \( \frac{2}{13} \) *
+General Feedback: 4 kings + 4 queens = 8 favorable. P = 8/52 = 2/13.
+
+Question No. 77: A number when divided by 12 gives a remainder of 7. If the same number is divided by 6, then the remainder must be
+Option: 1 *
+Option: 2
+Option: 3
+Option: 4
+General Feedback: Number = 12k + 7. Divide by 6: 12k/6 = 2k remainder 0, 7/6 remainder 1.
+
+Question No. 78: A car travels 25 km in 20 minutes. How far does it travel in 32 minutes?
+Option: 20 km
+Option: 30 km
+Option: 35 km
+Option: 40 km *
+General Feedback: Speed = 25/20 = 1.25 km/min. Distance in 32 min = 1.25×32 = 40 km.
+
+Question No. 79: How many prime numbers between 1 and 100 are factors of 7, 150?
+Option: 1
+Option: 2
+Option: 3 *
+Option: 4
+General Feedback: 7150 = 2 × 5² × 11 × 13. Prime factors are 2,5,11,13 → 4 primes, but the file marks 3 as correct (possibly a typo; I'll retain the marked answer).
+
+Question No. 80: If a square mirror has a 20-inch diagonal, what is the approximate perimeter of the mirror, in inches?
+Option: 40
+Option: 60 *
+Option: 80
+Option: 100
+General Feedback: Side = diagonal/√2 = 20/1.414 ≈ 14.14. Perimeter ≈ 4×14.14 = 56.56 ≈ 60.
+
+---
+
+[group: Group: GK and ICT Skills]
+
+Question No. 81: Nepal is bordered by which Indian state in the west?
+Option: Sikkim
+Option: West Bengal
+Option: Uttarakhand *
+Option: Uttar Pradesh
+General Feedback: Uttarakhand shares a border with Nepal to the west.
+
+Question No. 82: How many Hilly districts are there according to new structure of Nepal?
+Option: 34
+Option: 35 *
+Option: 36
+Option: 37
+General Feedback: Nepal has 35 hilly districts.
+
+Question No. 83: Mt. Manaslu is located in which district?
+Option: Myagdi
+Option: Gorkha *
+Option: Kaski
+Option: Solukhumbu
+General Feedback: Mount Manaslu lies in Gorkha district.
+
+Question No. 84: Which river carries the most sand in the world after *Huang Ho*?
+Option: Gandaki
+Option: Narayani
+Option: Koshi *
+Option: Karnali
+General Feedback: The Koshi River is known for carrying the most sand after the Huang Ho (Yellow River).
+
+Question No. 85: Who was the first king to take refuge in Tibet?
+Option: Narendra Dev
+Option: Uday Dev *
+Option: Prachand Dev
+Option: Gunakam Dev
+General Feedback: King Uday Dev of Nepal fled to Tibet.
+
+Question No. 86: When was Sati Practice eliminated from Nepal?
+Option: BS. 1977 *
+Option: BS. 1980
+Option: BS. 2020
+Option: BS. 2022
+General Feedback: Sati practice was abolished in Nepal in BS 1977 (1920 AD).
+
+Question No. 87: What is the name of first wife of Prophet Muhammad?
+Option: Khadija *
+Option: Aisha
+Option: Zainab
+Option: Hafsa
+General Feedback: Khadija bint Khuwaylid was the first wife of Prophet Muhammad.
+
+Question No. 88: Who is the first martyr of Madhesh Movement?
+Option: Ramesh Mahato *
+Option: Mukesh Kayasth
+Option: Vishnulal Maharjan
+Option: Umeshchandra Thapa
+General Feedback: Ramesh Mahato is regarded as the first martyr of the Madhesh Movement.
+
+Question No. 89: What is the target of \( 15^{\text{th}} \) Plan (FY 2076/77-2080/81) to achieve the average economic growth rate?
+Option: \( 6.8\% \)
+Option: \( 10.3\% \) *
+Option: \( 10.5\% \)
+Option: \( 7.1\% \)
+General Feedback: The 15th Plan aims for an average growth rate of 10.3%.
+
+Question No. 90: How much US dollars does the \( 15^{\text{th}} \) Periodic Plan aim to reach per capita gross national income?
+Option: 12100
+Option: 1047
+Option: 1365
+Option: 1595 *
+General Feedback: The target per capita GNI is USD 1,595.
+
+Question No. 91: Which of the following is called the secondary air pollutant?
+Option: Sulphur dioxide
+Option: Carbon monoxide
+Option: Nitrogen dioxide
+Option: Ozone *
+General Feedback: Ozone is a secondary pollutant formed from primary pollutants.
+
+Question No. 92: Which of the following ultraviolet rays is more dangerous?
+Option: UV-A
+Option: UV-B
+Option: UV-C *
+Option: None of these
+General Feedback: UV-C is the most dangerous, but is mostly absorbed by the ozone layer.
+
+Question No. 93: Who is elected as the \( 78^{\text{th}} \) President of UNO?
+Option: Dennis Francis *
+Option: Csaba Kőrösi
+Option: Abdulla Shahid
+Option: Volkan Bozkir
+General Feedback: Dennis Francis of Trinidad and Tobago was elected as the 78th President of the UN General Assembly.
+
+Question No. 94: When was the \( 24^{\text{th}} \) ministerial preliminary meeting of BIMSTEC held?
+Option: 17 July 2023
+Option: 18 July 2023
+Option: 19 July 2023 *
+Option: 20 July 2023
+General Feedback: The 24th BIMSTEC Ministerial Meeting was held on 19 July 2023.
+
+Question No. 95: When was the constitution of Nepal amended for the second time?
+Option: BS 2077 Asar 04 *
+Option: BS 2072 Falgun 16
+Option: BS 2072 Asar 04
+Option: BS 2077 Falgun 16
+General Feedback: The second amendment was made on Asar 4, 2077 BS.
+
+Question No. 96: The main two components of CPU are:
+Option: CU and ALU *
+Option: ALU and BUS
+Option: CU and Register
+Option: Register and Main Memory
+General Feedback: CPU consists of Control Unit (CU) and Arithmetic Logic Unit (ALU).
+
+Question No. 97: When does Page Fault occur?
+Option: The page is present in memory.
+Option: The deadlock occurs.
+Option: The page does not present in memory. *
+Option: The buffering occurs.
+General Feedback: A page fault occurs when a requested page is not in memory.
+
+Question No. 98: Which of the following is correct option in MS-Excel 365, if a value in a cell of Column A and Row 10 is to be referred in a function or formula?
+Option: A-10
+Option: 10A
+Option: A10 *
+Option: A:10
+General Feedback: Column letter followed by row number is used for cell referencing.
+
+Question No. 99: Which of these is a non-profit domain?
+Option: .com
+Option: .np
+Option: .org *
+Option: All of these
+General Feedback: .org is intended for non-profit organizations.
+
+Question No. 100: Which program is used by a web client to view the web pages?
+Option: Web Browser *
+Option: Protocol
+Option: Web Server
+Option: Search Engine
+General Feedback: A web browser is used to view web pages.
+
