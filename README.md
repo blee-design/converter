@@ -34,6 +34,7 @@
 git clone https://github.com/blee-design/converter.git
 cd converter
 python -m pip install -e .    # optional — installs the `qconvert` command
+pip install question-converter
 
 
 ### For Package debian
