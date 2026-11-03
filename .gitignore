@@ -1,0 +1,109 @@
+
+---
+
+## 🚫 `.gitignore`
+
+```gitignore
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ---------------------------------------------------------------
+# Virtual environments
+# ---------------------------------------------------------------
+venv/
+.venv/
+env/
+ENV/
+.env/
+.venv*/
+
+# ---------------------------------------------------------------
+# Test / coverage
+# ---------------------------------------------------------------
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# ---------------------------------------------------------------
+# Editors / IDEs
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ---------------------------------------------------------------
+# Jupyter / IPython
+# ---------------------------------------------------------------
+.ipynb_checkpoints/
+profile_default/
+
+# ---------------------------------------------------------------
+# Project-specific generated files
+# ---------------------------------------------------------------
+# Generated output — never commit
+*.moodle.xml
+*_moodle.xml
+*.exam.html
+*_export.html
+output/
+dist_output/
+
+# Local question inputs (may contain private exam content)
+questions*.txt
+!example*.txt
+!sample*.txt
+
+# Unpacked source from packed files
+packer.py
+*-packed.py
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Secrets / tokens
+.env
+*.pem
+*.key
+token.txt
+
+question-converter-*.py
