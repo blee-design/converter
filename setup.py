@@ -16,7 +16,7 @@ setup(
             "qconvert=converter:main",  # Creates 'qconvert' command
         ],
     },
-    include_package_data=True,   # <-- ADD THIS LINE
+    include_package_data=True,
     install_requires=[],
     python_requires=">=3.6",
     classifiers=[
